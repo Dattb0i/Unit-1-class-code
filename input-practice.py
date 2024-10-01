@@ -1,0 +1,10 @@
+
+ingredient1 = input("Pick something for a salad.")
+ounces1 = float(input("How many ounces of this ingredient?"))
+ingredient2 = input("Pick another thing for the salad.")
+ounces2 = float(input("How many ounces of this ingredient?"))
+ingredient3 = input("Pick one final thing for the salad.")
+ounces3 = float(input("How many ounces of this ingredient?"))
+print(f"You have {ounces2} ounces of{ingredient2}")
+print(f"You have {ounces1} ounces of{ingredient1}")
+print(f"You have {ounces3} ounces of{ingredient3}")
