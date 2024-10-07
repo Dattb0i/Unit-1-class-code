@@ -6,7 +6,6 @@ Description: Unit 2 HW 2
 
 name = input("What's your name")
 date = input("What's the date today?")
-
 noun1 = input("pick a noun")
 noun2 = input("pick another")
 noun3 = input("and another")
