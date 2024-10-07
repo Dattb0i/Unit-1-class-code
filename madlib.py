@@ -25,4 +25,4 @@ adjective3 = input("one more")
 
 print(f"your name is {name.title()}")
 print(f"today's date is {date}")
-print(f"{adverb1}, there was a {noun1}{verb1}on a {noun2}. It was {adjective1}outside, and the {noun1}was too {adjective2}to go outside. Then, the {noun1}'s pet {noun3}{verb2}up and started {verb3}itself, which{adjective3}{noun1}. Some grilled {noun4}was being{verb4}, and everyone {adverb2}town wanted some of it, including the local {noun5}. In the end, everybody got some, even the {verb5}{noun6}.")
+print(f"{adverb1}, there was a {noun1}{verb1}on a {noun2}. It was {adjective1}outside, and the {noun1}was too {adjective2}to go outside. Then, the {noun1}'s pet {noun3}{verb2}up and started {verb3}itself, which{adjective3}{noun1}. Some grilled {noun4}was being{verb4}, and everyone {abverb2}town wanted some of it, including the local {noun5}. In the end, everybody got some, even the {verb5}{noun6}.")
