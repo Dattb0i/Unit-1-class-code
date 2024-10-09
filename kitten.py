@@ -1,7 +1,7 @@
 '''
 August Doe
 10/9/24
-Determine a cat's cost based on it's age
+Determine a cat's cost based on it's age using if statements and input.
 '''
 
 
